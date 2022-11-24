@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**abdulmoizhash/abdulmoizhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**abdulmoizhash/abdulmoizhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🌱 I’m currently learning Flutter and Data Science
 - 🔭 I’m currently working on Flutter
